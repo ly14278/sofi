@@ -1,0 +1,5 @@
+{
+  "name": "智能完形填空生成器",
+  "description": "一个使用 Gemini API 将英文文章转换为完形填空练习题的 Web 应用。",
+  "requestFramePermissions": []
+}
